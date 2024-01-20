@@ -1,7 +1,7 @@
 # The Impact of Reasoning Step Length on Large Language Models
 ![image](intro.png)
 
-Created by [Mingyu Jin]()\*, Qinkai Yu\*, Dong Shu,Haiyan Zhao,Wenyue Hua,Yanda Meng†,Yongfeng Zhang†,Mengnan Du†
+Created by [Mingyu Jin]()\*, Qinkai Yu\*, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng†, Yongfeng Zhang†, Mengnan Du†
 This repository contains PyTorch implementation of "The Impact of Reasoning Step Length on Large Language Models"
 
 
