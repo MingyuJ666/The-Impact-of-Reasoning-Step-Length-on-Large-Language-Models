@@ -26,7 +26,15 @@ https://github.com/kojima-takeshi188/zero_shot_cot/tree/main/log
 python run_inference.py --dataset multiarith --demo_path demos/multiarith --output_dir experiment/multiarith
 ```
 ## Use demo 
+### Relationship Between Steps and Accuracy
+```bash
+python run_inference.py --dataset last_letter --demo_path demos/last_letter_1 --output_dir experiment/last_letters_1 #1 represent the number of add step
+```
 
+### Effect of Prompt with Wrong Answer
+```bash
+python run_inference.py --dataset last_letter --demo_path demos/last_letters_false --output_dir experiment/last_letters_false
+```
 ## Create demo
 
 
