@@ -6,7 +6,7 @@ This repository contains PyTorch implementation of "The Impact of Reasoning Step
 
 
 
-[[arXiv]](https://arxiv.org/abs/2401.04925)https://arxiv.org/abs/2401.04925
+[[arXiv]](https://arxiv.org/abs/2401.04925) https://arxiv.org/abs/2401.04925
 
 ## Installation
 Make sure you have Python>=3.8 installed on your machine.
