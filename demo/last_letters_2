@@ -1,0 +1,28 @@
+	{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Tim Candace Cecil Misael\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. There is four words. So the answer will consist of four letters. The last letter of \"Tim\" is \"m\". The last letter of \"Candace\" is \"e\". The last letter of \"Cecil\" is \"l\". The last letter of \"Misael\" is \"l\". So the final answer would be \"mel\".",
+            "pred_ans": "mel",
+            "gold_ans": "mell"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Alina Alessandra Amina Bianca\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. There is four words. So the answer will consist of four letters. The last letter of \"Alina\" is \"a\". The last letter of \"Alessandra\" is \"a\". The last letter of \"Amina\" is \"a\". The last letter of \"Bianca\" is \"a\". So the final answer is \"aaaa\".",
+            "pred_ans": "aaaa",
+            "gold_ans": "aaaa"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Felipe Heidi Nino Bradley\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. There is four words. So the answer will consist of four letters. The last letter of \"Felipe\" is \"e\". The last letter of \"Heidi\" is \"i\". The last letter of \"Nino\" is \"o\". The last letter of \"Bradley\" is \"y\". So the final answer would be \"eiofy\".",
+            "pred_ans": "eiofy",
+            "gold_ans": "eioy"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Lacey Nora Debra Ashleigh\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. There is four words. So the answer will consist of four letters. The last letter of \"Lacey\" is \"y\". The last letter of \"Nora\" is \"a\". The last letter of \"Debra\" is \"a\". The last letter of \"Ashleigh\" is \"h\". So the final answer is \"yahah\".",
+            "pred_ans": "yahah",
+            "gold_ans": "yaah"
+        }
+    ]
+}

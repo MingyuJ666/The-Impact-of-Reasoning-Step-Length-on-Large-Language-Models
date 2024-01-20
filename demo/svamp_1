@@ -1,0 +1,52 @@
+{
+    "demo": [
+        {
+            "question": "Q: 5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus. How many more children got on the bus than those that got off?\nA:",
+            "rationale": "A: Let's think step by step. first step, 5 children were riding on the bus. second step,There were 63 children that got off the bus. third step, some more got on the bus we define as unknown x. fourth step, 14 children remained on the bus. we have know x = 72. fifth step, Therefore, 72 - 63 = 9. 9 more children got on the bus than those that got off.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: He then went to see the oranges being harvested. He found out that they harvest 67 sacks per day and that each sack containes 12 oranges. How many oranges are harvested if they harvest a total of 35 sacks of oranges?\nA:",
+            "rationale": "A: Let's think step by step. first step, each sack containes 12 oranges. second step, Now, if they harvest a total of 35 sacks of oranges, that means that they would harvest 35 x 12 = 420 oranges.",
+            "pred_ans": "420",
+            "gold_ans": "420"
+        },
+        {
+            "question": "Q: Ed had 6 more marbles than Doug. Doug lost 7 of his marbles at the playground. If Ed had 22 marbles How many marbles does Doug have now?\nA:",
+            "rationale": "A: Let's think step by step. first step, Ed had 6 more marbles than Doug. second step, Doug lost 7 of his marbles at the playground. third step, Ed had 22 marbles. That means Doug had 22 - 6 -7 = 9 marbles.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy How many pieces of candy does he still have left?\nA:",
+            "rationale": "A: Let's think step by step. first step, Bobby ate 17 pieces of candy. second step, Then he ate 15 more. third step, he initially had 36 pieces of candy, which means 36. So he has 4 pieces of candy left.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: Jake has 13 more apples and 17 fewer peaches than Steven. Steven has 8 peaches and 12 apples. How many apples does Jake have?\nA:",
+            "rationale": "A: Let's think step by step. first step, Jake has 13 more apples than Steven and 7 fewer peaches. second step, Steven has 8 peaches and 12 apples. second step, That means Jake has 21 apples.",
+            "pred_ans": "21",
+            "gold_ans": "25"
+        },
+        {
+            "question": "Q: The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 14 inches. The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper. How much farther did the mouse jump than the grasshopper?\nA:",
+            "rationale": "A: Let's think step by step. first step, The grasshopper jumped 14 inches. Second step, The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper. second step, That means the mouse jumped 35 - 14 = 21 inches farther than the grasshopper.",
+            "pred_ans": "21",
+            "gold_ans": "21"
+        },
+        {
+            "question": "Q: Baker sold 8 cakes. If he had made 40 cakes initially How many more cakes did baker make than those he sold?\nA:",
+            "rationale": "A: Let's think step by step.  first step, Now let's think about what we know. second step, We know that the baker sold 8 cakes and that he made 40 cakes initially. From this, we can calculate that the baker made 32 more cakes than those he sold.",
+            "pred_ans": "32",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: Every day Ryan spends 6 hours on learning english and 5 hours on learning chinese. If he learns for 2 days How many hours does he spend on learning english in all?\nA:",
+            "rationale": "A: Let's think step by step.  first step, On the first day, Ryan spends 6 hours on learning English and 5 hours on learning Chinese. second step, On the second day, Ryan spends 6 hours on learning English and 5 hours on learning Chinese. third step, In total, Ryan spends 12 hours on learning English and 10 hours on learning Chinese.",
+            "pred_ans": "12",
+            "gold_ans": "12"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "demo": [
+        {
+            "question": "Q: A coin is heads up. Janette does not flip the coin. Stacey flips the coin. Ronny flips the coin. Kim does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. The state of the coin from the beginning is heads up. Janette does not flip the coin, so the coin remains heads up. coin is heads up. Stacey flips the coin, so the coin is now tails up. Ronny flips the coin, so the coin is now heads up again. Kim does not flip the coin, so the coin remains heads up. coin is head up",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Brandon does not flip the coin. Ivonne does not flip the coin. Jefferson flips the coin. Isabella does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step.  Brandon does not flip the coin, so the coin remains heads up. coin is heads up. Ivonne does not flip the coin, so the coin remains heads up. coin remains heads up. Jefferson flips the coin, so the coin is now tails up. Isabella does not flip the coin. coin remains tails up",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Claudia flips the coin. Cole does not flip the coin. Matthew does not flip the coin. Juan Pablo does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. The state of the coin from the beginning is heads up. Claudia flips the coin, so it is now tails up. Cole does not flip the coin, so it remains tails up. Matthew does not flip the coin, so it remains tails up. coin is remains tails up. Juan Pablo does not flip the coin. coin is remains tails up. So the answer is no, the coin is not heads up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Clarissa does not flip the coin. Shauna does not flip the coin. Alexis does not flip the coin. Branden flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Clarissa does not flip the coin. This means that the state of the coin does not change. The coin is still heads up. Shauna does not flip the coin. The state of the coin does not change. The coin is still heads up. Alexis does not flip the coin. The coin is still heads up. Branden flips the coin. The coin is now tails up.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: A coin is heads up. Walter does not flip the coin. Mikayla does not flip the coin. Larry does not flip the coin. Ryan does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. If Walter does not flip the coin, the coin remains heads up. If Mikayla does not flip the coin, This means that the state of the coin does not change. then the coin remains heads up. If Larry does not flip the coin, This means that the state of the coin does not change. then the coin remains heads up. If Ryan does not flip the coin, then the coin remains heads up. So, the answer is yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Deanna does not flip the coin. Terri does not flip the coin. Gabriela flips the coin. Jonah flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. Deanna does not flip the coin, so the coin remains heads up. Terri does not flip the coin, This means that the state of the coin does not change. so the coin remains heads up. Gabriela flips the coin, so the coin is now tails up. Jonah flips the coin, This means that the state of the coin is reversed. so the coin is now heads up again.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Joyce flips the coin. Leroy flips the coin. Alyssa does not flip the coin. Maggie does not flip the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. The state of the coin from the beginning is heads up. Joyce flips the coin, This means that the state of the coin is reversed. so now it is tails up. Leroy flips the coin, so now it is heads up again. Alyssa does not flip the coin, so it remains tails up. Maggie does not flip the coin, so it remains heads up. So the final answer is yes, the coin is still heads up.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: A coin is heads up. Isaac does not flip the coin. Reyes does not flip the coin. Carly flips the coin. Tania flips the coin. Is the coin still heads up? Note that \"flip\" here means \"reverse\".\nA:",
+            "rationale": "Let's think step by step. The state of the coin from the beginning is heads up. Isaac does not flip the coin, so the coin remains heads up. Reyes does not flip the coin, This means that the state of the coin does not change. so the coin remains heads up. Carly flips the coin, so the coin is now tails up. Tania flips the coin, so the coin is now heads up again.",
+            "pred_ans": "no",
+            "gold_ans": "yes"
+        }
+    ]
+}

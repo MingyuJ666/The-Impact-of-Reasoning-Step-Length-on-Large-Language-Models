@@ -1,0 +1,52 @@
+{
+    "demo": [
+        {
+            "question": "Q: Mark's father gave him $85. Mark bought 10 books, each of which cost $5. How much money does Mark have left?\nA:",
+            "rationale": "Let's think step by step. So we need to calculate money. Start looking for information about money now. Mark's father gave him $85. Mark bought 10 books, each of which cost $5. That means that Mark spent $50 on books. So Mark has $85 - $50 = $35 left.",
+            "pred_ans": "35",
+            "gold_ans": "35"
+        },
+        {
+            "question": "Q: Nancy has 7 black balloons. Mary has 4 times more  black balloons than Nancy. How many black balloons does Mary have now ?\nA:",
+            "rationale": "Let's think step by step.  Nancy has 7 black balloons. which means 7 black balloons on Nancy. Mary has 4 times as many black balloons as Nancy. That means Mary has 4 times 7 black balloons. Which means Mary has 4*7 black balloons. we have equation black balloons on Mary = 4*7 = 28. That means Mary has 28 black balloons.",
+            "pred_ans": "28",
+            "gold_ans": "28"
+        },
+        {
+            "question": "Q: Sally picked 7 lemons and Mary picked 9 lemons from the lemon tree. How many lemons were picked in total ?\nA:",
+            "rationale": "Let's think step by step. Sally picked 7 lemons, and Mary picked 9 lemons. So we can say that Sally picked 7 lemons and Mary picked 9 lemons. we have equation total lemons = 7 + 9 = 16. So the total number of lemons picked is 7 + 9 = 16.",
+            "pred_ans": "16",
+            "gold_ans": "16"
+        },
+        {
+            "question": "Q: Brenda’s mother made cookies for 5. If she prepared 35 cookies and each of them had the same number of cookies, how many did each of them have?\nA:",
+            "rationale": "Let's think step by step. So we need to calculate How many cookies they have. Start looking for information about cookies now. Brenda's mother made 35 cookies. We know that she made them for 5 people. That means that she made 7 cookies for each person.",
+            "pred_ans": "7",
+            "gold_ans": "7"
+        },
+        {
+            "question": "Q: Joan has 10 books. Tom has 38 books.  How many books do they have together ?\nA:",
+            "rationale": "Let's think step by step. Joan has 10 books. Tom has 38 books. which means 38. we have equation books = 10 + 38 = 48. They have 10 + 38 = 48 books together.",
+            "pred_ans": "48",
+            "gold_ans": "48"
+        },
+        {
+            "question": "Q: Karen added 0.25 of a cup of walnuts to a batch of trail mix. Later, she added 0.25 of a cup of almonds. How many cups of nuts did Karen put in the trail mix in all?\nA:",
+            "rationale": "Let's think step by step. So we need to calculate how many cups of nuts did Karen put in the trail mix in all. Karen added 0.25 of a cup of walnuts to a batch of trail mix. which means 0.25. This is the first step, and so far, she has added 0.25 cups of walnuts. Later, she added 0.25 of a cup of almonds. This is the second step, and so far, she has added 0.5 cups of nuts (0.25 cups of walnuts + 0.25 cups of almonds). Therefore, in total, Karen has added 0.5 cups of nuts to the trail mix.",
+            "pred_ans": "0.5",
+            "gold_ans": "0.5"
+        },
+        {
+            "question": "Q: There were a total of 6 soccer games this year. Jessica missed 4 of the games. How many soccer games did Jessica go to in all ?\nA:",
+            "rationale": "Let's think step by step. Start looking for information about games now.There were a total of 6 soccer games this year. That means there were a total of 6 opportunities for Jessica to attend a game. However, Jessica missed 4 of those opportunities. we have equation all = 6-4 = 2. That means that Jessica only attended 2 of the 6 soccer games.",
+            "pred_ans": "2",
+            "gold_ans": "2"
+        },
+        {
+            "question": "Q: Craig walked 0.2 of a mile from school to David's house and 0.7 of a mile from David's house to his own house. How many miles did Craig walk in all?\nA:",
+            "rationale": "Let's think step by step. So we need to calculate how many miles did Craig walk in all. Start looking for information about miles now. Craig walked 0.2 miles from school to David's house. Then, Craig walked 0.7 miles from David's house to his own house. In total, Craig walked 0.2 + 0.7 = 0.9 miles.",
+            "pred_ans": "0.9",
+            "gold_ans": "0.9"
+        }
+    ]
+}

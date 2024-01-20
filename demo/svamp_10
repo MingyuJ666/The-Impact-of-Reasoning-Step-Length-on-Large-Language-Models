@@ -1,0 +1,22 @@
+{
+    "demo": [
+        {
+            "question": "Q: 5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus. How many more children got on the bus than those that got off?\nA:",
+            "rationale": "A: Let's think step by step. Explain bus: bus is a large motor vehicle designed to carry passengers. Explain children: children referring to multiple young individuals who have not yet reached adulthood. The question is:  How many more children got on the bus than those that got off? So we need to calculate how many more children got on the bus than those that got off. Start looking for information about children now. first step, 5 children were riding on the bus. We know 5 children is on the bus. which means 5. second step,There were 63 children that got off the bus. which means 63. third step, some more got on the bus we define as unknown x. fourth step, 14 children remained on the bus, which means we can calculate unknow x. we have equation x+5-63 = 14, now we know x is 72. fifth step, Therefore, 72 - 63 = 9. 9 more children got on the bus than those that got off. So the answer is 9.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Jake has 13 more apples and 17 fewer peaches than Steven. Steven has 8 peaches and 12 apples. How many apples does Jake have?\nA:",
+            "rationale": "A: Let's think step by step. Explain apples: apples are fruits produced by apple trees, known for their crisp texture and sweet or tart taste. The question is How many apples does Jake have. So we need to calculate how many apples does Jake have. Now start looking for information about apples. first step, Jake has 13 more apples than Steven and 7 fewer peaches. which means 13 and 7. second step, Steven has 8 peaches and 12 apples. That means Jake has (13 + 12) apples and  has (8-1) peaches. third step, That means Jake has 25 apples. So the answer is 25.",
+            "pred_ans": "21",
+            "gold_ans": "25"
+        },
+        {
+            "question": "Q: The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 14 inches. The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper. How much farther did the mouse jump than the grasshopper?\nA:",
+            "rationale": "A: Let's think step by step. Explain mouse: mouse is a small mammal belonging to the rodent order, typically having a pointed snout, rounded ears, and a long, scaly tail. The question is How much farther did the mouse jump than the grasshopper? So we need to calculate How much farther did the mouse jump than the grasshopper. Now start looking for information about farther. first step, The grasshopper jumped 14 inches. Second step, The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper. which means frog jumped 37 + 14 = 51 inche and mouse jumped 51-16= 35 inches. Third step, That means the mouse jumped 35 - 14 = 21 inches farther than the grasshopper. So the answer is 21",
+            "pred_ans": "21",
+            "gold_ans": "21"
+        }
+    ]
+}

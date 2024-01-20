@@ -1,0 +1,28 @@
+	{
+    "demo": [
+        {
+            "question": "Q: Take the last letters of each words in \"Tim Candace Cecil Misael\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Explain letters: letters can have various meanings depending on the context, such as Alphabetic Characters, Correspondence, Literature and Books. There is four words. So the answer will consist of four letters. The last letter of \"Tim\" is \"m\". The last letter of \"Candace\" is \"e\". The last letter of \"Cecil\" is \"l\". The last letter of \"Misael\" is \"l\". So we have four letters. So the final answer would be \"mel\".",
+            "pred_ans": "mel",
+            "gold_ans": "mell"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Alina Alessandra Amina Bianca\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step.  Explain letters: letters can have various meanings depending on the context, such as Alphabetic Characters, Correspondence, Literature and Books. There is four words. So the answer will consist of four letters. The last letter of \"Lamont\" is \"t\". The last letter of \"Frederick\" is \"k\". The last letter of \"Lance\" is \"e\". The last letter of \"Esperanza\" is \"a\". So we have four letters. So the final answer is \"teka\". The answer is \"teka\".",
+            "pred_ans": "teka",
+            "gold_ans": "tkea"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Felipe Heidi Nino Bradley\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Explain letters: letters can have various meanings depending on the context, such as Alphabetic Characters, Correspondence, Literature and Books. There is four words. So the answer will consist of four letters. The last letter of \"Felipe\" is \"e\". The last letter of \"Heidi\" is \"i\". The last letter of \"Nino\" is \"o\". The last letter of \"Bradley\" is \"y\". So we have four letters. So, the final answer would be \"eiofy\".",
+            "pred_ans": "eiofy",
+            "gold_ans": "eioy"
+        },
+        {
+            "question": "Q: Take the last letters of each words in \"Lacey Nora Debra Ashleigh\" and concatenate them.\nA:",
+            "rationale": "Let's think step by step. Explain letters: letters can have various meanings depending on the context, such as Alphabetic Characters, Correspondence, Literature and Books. There is four words. So the answer will consist of four letters. The last letter of \"Lacey\" is \"y\". The last letter of \"Nora\" is \"a\". The last letter of \"Debra\" is \"a\". The last letter of \"Ashleigh\" is \"h\". So we have four letters. So the final answer is \"yahah\".",
+            "pred_ans": "yahah",
+            "gold_ans": "yaah"
+        }
+    ]
+}

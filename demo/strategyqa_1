@@ -1,0 +1,40 @@
+{
+    "demo": [
+        {
+            "question": "Q: Will Queen Elizabeth be buried in the Pantheon?\nA:",
+            "rationale": "Let's think step by step. The stem of the sentence is Queen Elizabeth, burial, pantheon. Inference: First, the Pantheon is a church, so it's possible that she could be buried there. Second, Queen Elizabeth II is still alive, so she hasn't been buried yet. Third, even if she were to be buried in the Pantheon, it's unlikely that we would know about it ahead of time, so it's hard to say for sure.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step.  The stem of the sentence is vegetarian, eat, Chick-fil-A. Inference: Chick-fil-A is a restaurant chain that specializes in chicken sandwiches. So right off the bat, we can say that a vegetarian probably wouldn't be able to find a sandwich that they could eat. However, Chick-fil-A does offer salads and sides that a vegetarian could eat.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. The stem of the sentence is  Dr. Seuss, make himself, famous. Inference: Dr. Seuss was born in 1904 as Theodor Seuss Geisel. He wrote his first book, And to Think That I Saw It on Mulberry Street, in 1937. It was rejected by 27 different publishers before finally being accepted. The book was not an immediate success. Dr. Seuss's big break came when he wrote The Cat in the Hat in 1957. The book was an instant success and made Dr. Seuss famous.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can an American black bear swallow a sun bear whole?\nA:",
+            "rationale": "Let's think step by step. The stem of the sentence is American black bear, swallow, sun bear, whole. Inference: The average adult American black bear weighs between 250 and 550 pounds. The average adult sun bear weighs between 60 and 80 pounds. So an American black bear could theoretically swallow a sun bear whole.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could someone in Tokyo take a taxi to the The Metropolitan Museum of Art?\nA:",
+            "rationale": "Let's think step by step. The stem of the sentence is Tokyo, take a taxi, Metropolitan Museum of Art. Inference: Tokyo is in Japan and the Metropolitan Museum of Art is in New York. The two places are separated by the sea, so you can't take a taxi there.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Iggy Pop travel with Justin Bieber?\nA:",
+            "rationale": "Let's think step by step. The stem of the sentence is Iggy Pop, travel, Justin Bieber. Inference: Iggy Pop is a punk rock legend who is known for his wild and crazy antics. Justin Bieber is a young pop star who is known for his good looks and catchy songs. It is doubtful that Iggy Pop would want to travel with Justin Bieber because they are two very different people.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ]
+}

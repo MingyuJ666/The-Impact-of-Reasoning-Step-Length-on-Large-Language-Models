@@ -1,0 +1,40 @@
+{
+    "demo": [
+        {
+            "question": "Q: Will Queen Elizabeth be buried in the Pantheon?\nA:",
+            "rationale": "Let's think step by step. Based on this question, Let's first guess where Elizabeth will be buried. Perhaps Elizabeth will be buried in a church or royal cemetery. The stem of the sentence is Queen Elizabeth, burial, pantheon. Explain Queen Elizabeth: Queen Elizabeth II, born on April 21, 1926, is the reigning monarch of the United Kingdom. Explain burial:  Buried refers to the act of placing a dead body or remains in the ground, typically within a grave or tomb, as part of a burial ceremony. Explain Pantheon: The Pantheon refers to a term commonly associated with a temple dedicated to all the gods in a particular religion or belief system. Inference: First, the Pantheon is a church, so it's possible that she could be buried there. Second, Queen Elizabeth II is still alive, so she hasn't been buried yet. Third, even if she were to be buried in the Pantheon, it's unlikely that we would know about it ahead of time. I want to double check whether my answer is reasonable. so it's hard to say for sure.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Based on this question, Let's first guess What do vegetarians usually eat, maybe vegetarians eat salads, vegetables, etc. The stem of the sentence is vegetarian, eat, Chick-fil-A. Explain vegetarian: A vegetarian is a person who follows a diet that excludes the consumption of meat, poultry, and seafood. Explain eat: eat refers to the act of consuming food, typically for nourishment and sustenance. It is a fundamental biological process through which organisms, including humans, take in nutrients to fuel their bodies and support various physiological functions. Explain Chick-fil-A: Chick-fil-A is a popular American fast-food restaurant chain that specializes in chicken-based dishes. Inference: Chick-fil-A is a restaurant chain that specializes in chicken sandwiches. So right off the bat, we can say that a vegetarian probably wouldn't be able to find a sandwich that they could eat. I want to double check whether my answer is reasonable. Chick-fil-A does offer salads and sides that a vegetarian could eat. ",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Dr. Seuss make himself famous?\nA:",
+            "rationale": "Let's think step by step. Based on this question, Let's first guess what Dr. Seuss needs to do to make him famous. Maybe he needs to do something so that people can remember him. The stem of the sentence is  Dr. Seuss, make himself, famous. Explain Dr. Seuss: Dr. Seuss is the pen name of Theodor Seuss Geisel, an American author and illustrator best known for his popular and whimsical children's books. Explain make himself: can have different meanings depending on the context. such as Create or Construct, Establish or Achieve, Present a Certain Image, Adapt or Adjust. Explain famous: famous is an adjective used to describe someone or something that is widely known, recognized, or celebrated, often for positive achievements, talents, or contributions. Inference: Dr. Seuss was born in 1904 as Theodor Seuss Geisel. He wrote his first book, And to Think That I Saw It on Mulberry Street, in 1937. It was rejected by 27 different publishers before finally being accepted. The book was not an immediate success. Dr. Seuss's big break came when he wrote The Cat in the Hat in 1957. The book was an instant success. I want to double check whether my answer is reasonable. So the book made Dr. Seuss famous.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Can an American black bear swallow a sun bear whole?\nA:",
+            "rationale": "Let's think step by step. Based on this question, Let's first guess what the American black bear will swallow. Probably some creature much smaller than the American black bear. The stem of the sentence is American black bear, swallow, sun bear, whole. Explain American black bear:  American black bear is a species of bear native to North America. Explain swallow: Swallow (bird) are a group of passerine birds known for their distinctive pointed wings and graceful flight. Swallow (action) as a verb, refers to the action of taking food, liquid, or an object into the mouth and moving it down the throat into the stomach. Explain sun bear: The sun bear (Helarctos malayanus) is the smallest bear species and is native to the tropical forests of Southeast Asia. Explain whole: whole has several meanings depending on the context.such as Complete or Entire, Unbroken or Undividedl, Healthy or Well, Wholesome or Healthy (referring to food), Entirely or Completely. Inference: The average adult American black bear weighs between 250 and 550 pounds. The average adult sun bear weighs between 60 and 80 pounds. I want to double check whether my answer is reasonable. So an American black bear could theoretically swallow a sun bear whole.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could someone in Tokyo take a taxi to the The Metropolitan Museum of Art?\nA:",
+            "rationale": "Let's think step by step. Based on this question, Let’s first guess where we will reach by taking a taxi from Tokyo. May only be able to move around Tokyo. The stem of the sentence is Tokyo, take a taxi, Metropolitan Museum of Art. Explain Tokyo: Tokyo is the capital city of Japan and one of the most populous metropolitan areas in the world. Explain take a taxi: common expression that means to hire or use a taxi for transportation. Explain Metropolitan Museum of Art: is a art museums in New York City. Inference: Tokyo is in Japan and the Metropolitan Museum of Art is in New York. The two places are separated by the sea, so you can't take a taxi there. I want to double check whether my answer is reasonable. Since two places are separated by the sea, you can't take a taxi there.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would Iggy Pop travel with Justin Bieber?\nA:",
+            "rationale": "Let's think step by step. Based on this question, Let's first guess where Iggy Pop will travel. Probably America because he is American. The stem of the sentence is Iggy Pop, travel, Justin Bieber. Explain Iggy Pop: Iggy Pop, born James Newell Osterberg Jr. on April 21, 1947, is an iconic American singer, songwriter, musician, and actor. Explain travel: travel refers to the act of moving from one place to another, typically for the purpose of exploration, leisure, business, or personal reasons. Explain Justin Bieber:  Justin Bieber,born on March 1, 1994, is a Canadian singer, songwriter, and pop music sensation. Inference: Iggy Pop is a punk rock legend who is known for his wild and crazy antics. Justin Bieber is a young pop star who is known for his good looks and catchy songs. It is doubtful that Iggy Pop would want to travel with Justin Bieber because they are two very different people. I want to double check whether my answer is reasonable. And they come from difference country, so answer is no.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ]
+}
