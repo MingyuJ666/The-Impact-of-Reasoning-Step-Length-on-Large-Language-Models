@@ -2,8 +2,8 @@
 
 Created by [Mingyu Jin]()\*, [Qinkai Yu]()\*, [Dong Shu],[Haiyan Zhao],[Wenyue Hua],[Yanda Meng]†,[Yongfeng Zhang]†,[Mengnan Du]†
 This repository contains PyTorch implementation of "The Impact of Reasoning Step Length on Large Language Models"
+![intro.png]
 
-[[intro.png](https://github.com/jmyissb/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models/blob/main/intro.png)]
 
 [[arXiv]](https://arxiv.org/abs/2401.04925)
 
@@ -24,6 +24,8 @@ https://github.com/kojima-takeshi188/zero_shot_cot/tree/main/log
 ```bash
 python run_inference.py --dataset multiarith --demo_path demos/multiarith --output_dir experiment/multiarith
 ```
+## Use demo 
+
 ## Create demo
 
 
