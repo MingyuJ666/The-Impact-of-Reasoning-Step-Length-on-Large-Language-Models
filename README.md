@@ -8,6 +8,8 @@ The paper has been accepted by ACL 2024 findings.
 
 [[arXiv]](https://arxiv.org/abs/2401.04925) https://arxiv.org/abs/2401.04925
 
+[[ACL]](https://aclanthology.org/2024.findings-acl.108/) https://aclanthology.org/2024.findings-acl.108/
+
 ## Installation
 Make sure you have Python>=3.8 installed on your machine.
 
