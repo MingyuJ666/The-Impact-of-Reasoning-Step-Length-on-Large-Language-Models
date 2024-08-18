@@ -56,6 +56,7 @@ If you find this codebase helpful, please consider to cite:
   journal={arXiv preprint arXiv:2401.04925},
   year={2024}
 }
+
 @inproceedings{jin-etal-2024-impact,
     title = "The Impact of Reasoning Step Length on Large Language Models",
     author = "Jin, Mingyu  and
