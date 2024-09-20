@@ -29,6 +29,13 @@ python run_inference.py --dataset multiarith --demo_path demos/multiarith --outp
 ```
 ## Use demo 
 ### Relationship Between Steps and Accuracy
+last_letter_1 represents adding one step to the demo
+
+last_letter_2 represents adding two-step to the demo
+
+
+.......and so on
+
 ```bash
 python run_inference.py --dataset last_letter --demo_path demos/last_letter_1 --output_dir experiment/last_letters_1 #1 represent the number of add step
 ```
