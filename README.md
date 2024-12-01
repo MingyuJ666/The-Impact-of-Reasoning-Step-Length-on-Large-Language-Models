@@ -53,13 +53,6 @@ If you find this codebase helpful, please consider to cite:
 @article{jin2024impact,
   title={The Impact of Reasoning Step Length on Large Language Models},
   author={Jin, Mingyu and Yu, Qinkai and Zhao, Haiyan and Hua, Wenyue and Meng, Yanda and Zhang, Yongfeng and Du, Mengnan and others},
-  journal={ACL},
-  year={2024}
-}
-
-@article{jin2024impact,
-  title={The Impact of Reasoning Step Length on Large Language Models},
-  author={Jin, Mingyu and Yu, Qinkai and Zhao, Haiyan and Hua, Wenyue and Meng, Yanda and Zhang, Yongfeng and Du, Mengnan and others},
   journal={arXiv preprint arXiv:2401.04925},
   year={2024}
 }
