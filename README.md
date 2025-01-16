@@ -67,16 +67,11 @@ If you find this codebase helpful, please consider to cite:
       Meng, Yanda  and
       Zhang, Yongfeng  and
       Du, Mengnan",
-    editor = "Ku, Lun-Wei  and
-      Martins, Andre  and
-      Srikumar, Vivek",
     booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
     month = aug,
     year = "2024",
     address = "Bangkok, Thailand and virtual meeting",
-    publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.findings-acl.108",
     pages = "1830--1842",
-    abstract = "Chain of Thought (CoT) is significant in improving the reasoning abilities of large language models (LLMs). However, the correlation between the effectiveness of CoT and the length of reasoning steps in prompts remains largely unknown. To shed light on this, we have conducted several empirical experiments to explore the relations. Specifically, we design experiments that expand and compress the rationale reasoning steps within CoT demonstrations, while keeping all other factors constant. We have the following key findings. First, the results indicate that lengthening the reasoning steps in prompts, even without adding new information into the prompt, considerably enhances LLMs{'} reasoning abilities across multiple datasets. Alternatively, shortening the reasoning steps, even while preserving the key information, significantly diminishes the reasoning abilities of models. This finding highlights the importance of the number of steps in CoT prompts and provides practical guidance to make better use of LLMs{'} potential in complex problem-solving scenarios. Second, we also investigated the relationship between the performance of CoT and the rationales used in demonstrations. Surprisingly, the result shows that even incorrect rationales can yield favorable outcomes if they maintain the requisite length of inference. Third, we observed that the advantages of increasing reasoning steps are task-dependent: simpler tasks require fewer steps, whereas complex tasks gain significantly from longer inference sequences.",
 }
 ```
