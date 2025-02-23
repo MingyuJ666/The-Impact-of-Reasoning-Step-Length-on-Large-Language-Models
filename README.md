@@ -50,10 +50,11 @@ python run_inference.py --dataset last_letter --demo_path demos/last_letters_fal
 ## Citation 
 If you find this codebase helpful, please consider to cite:
 ```
-@article{jin2024impact,
-  title={The impact of reasoning step length on large language models},
+@inproceedings{jin2024impact,
+  title={The Impact of Reasoning Step Length on Large Language Models},
   author={Jin, Mingyu and Yu, Qinkai and Shu, Dong and Zhao, Haiyan and Hua, Wenyue and Meng, Yanda and Zhang, Yongfeng and Du, Mengnan},
-  journal={arXiv preprint arXiv:2401.04925},
+  booktitle={Findings of the Association for Computational Linguistics ACL 2024},
+  pages={1830--1842},
   year={2024}
 }
 
@@ -75,10 +76,13 @@ If you find this codebase helpful, please consider to cite:
     pages = "1830--1842",
 }
 
-@article{jin2024impact,
-  title={The impact of reasoning step length on large language models},
+@inproceedings{jin2024impact,
+  title={The Impact of Reasoning Step Length on Large Language Models},
   author={Jin, Mingyu and Yu, Qinkai and Shu, Dong and Zhao, Haiyan and Hua, Wenyue and Meng, Yanda and Zhang, Yongfeng and Du, Mengnan},
-  journal={ACL Findings},
+  booktitle={ACL (Findings)},
   year={2024}
+}
+
+
 }
 ```
