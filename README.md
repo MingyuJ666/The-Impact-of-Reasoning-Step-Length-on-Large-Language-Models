@@ -77,6 +77,7 @@ If you find this codebase helpful, please consider to cite:
     pages = "1830--1842",
 }
 ```
+```
 @inproceedings{jin2024impact,
   title={The Impact of Reasoning Step Length on Large Language Models},
   author={Jin, Mingyu and Yu, Qinkai and Shu, Dong and Zhao, Haiyan and Hua, Wenyue and Meng, Yanda and Zhang, Yongfeng and Du, Mengnan},
